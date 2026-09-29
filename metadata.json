@@ -1,0 +1,6 @@
+{
+  "name": "SAT-SA – Supervisory Analytics Tool for SOC Assessment",
+  "description": "Supervisory Analytics Tool for SOC Assessment (SAT-SA). A cyber supervisory platform for evaluating Critical Sector Entities, detecting SOC execution gaps, analyzing anomalies, and prioritizing risk interventions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

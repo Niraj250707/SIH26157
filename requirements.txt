@@ -1,0 +1,11 @@
+# SAT-SA: Supervisory Analytics Tool for SOC Assessment
+# 100% Offline Air-Gapped Python Environment Dependencies
+# Smart India Hackathon 2026 (Problem Statement 26157 - NCIIPC / NTRO)
+
+streamlit>=1.35.0
+pandas>=2.1.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+plotly>=5.22.0
+reportlab>=4.1.0
+openpyxl>=3.1.2
